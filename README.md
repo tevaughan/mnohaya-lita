@@ -1,5 +1,8 @@
 # mnohaya-lita
 
+See [the release page](https://github.com/tevaughan/mnohaya-lita/releases) for
+PDF and MIDI files.
+
 ## Megan Vaughan's Arrangement of a Traditional Song
 
 When he was a boy, my father's family had Ukrainian Catholic friends.  From
@@ -18,9 +21,6 @@ college.
 I coded up the initial Lilypond for this on the basis of
  1. Megan's original score and
  2. my mental notes from our first practice session.
-
-See [the release page](https://github.com/tevaughan/mnohaya-lita/releases) for
-PDF and MIDI files.
 
 ## Playing MIDI on GNU/Linux
 
