@@ -1,6 +1,6 @@
 # mnohaya-lita
 
-## Megan Vaughan's arrangement of a traditional song.
+## Megan Vaughan's Arrangement of a Traditional Song
 
 When he was a boy, my father's family had Ukrainian Catholic friends.  From
 them he and his siblings learned a traditional Ukrainian song, Mnohaya Lita.
