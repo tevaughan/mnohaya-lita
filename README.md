@@ -1,10 +1,9 @@
-# mnohaya-lita
 
-## PDF and MIDI Files
+# PDF and MIDI Files
 
 See [the release page](https://github.com/tevaughan/mnohaya-lita/releases).
 
-## Megan Vaughan's Arrangement of a Traditional Song
+# Megan Vaughan's Arrangement of a Traditional Song
 
 When he was a boy, my father's family had Ukrainian Catholic friends.  From
 them he and his siblings learned a traditional Ukrainian song, Mnohaya Lita.
@@ -25,7 +24,7 @@ I coded up the initial Lilypond for this on the basis of
  1. Megan's original score and
  2. my mental notes from our first practice session.
 
-## Playing MIDI on GNU/Linux
+# Playing MIDI on GNU/Linux
 
 To play a MIDI file on GNU/Linux, make sure that the `timidity` and `pmidi`
 packages are installed.
@@ -48,7 +47,7 @@ directory that contains `mnohaya-lita.midi`. Then do something like
 
 where you substitute a port number that you see in your output from `pmidi -l`.
 
-## Building New Output Files
+# Building New Output Files
 
 There is a `Makefile`.  On a unix-like machine with Lilypond installed, just
 open a terminal window, change to the directory containing the local clone of
