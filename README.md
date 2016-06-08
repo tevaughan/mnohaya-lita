@@ -13,10 +13,12 @@ and groom at a wedding.  It is also part of the divine liturgy in the East.
 version of the same divine liturgy. Both the Eastern divine liturgy and the
 Roman mass have the liturgy of the Word and the liturgy of the Eucharist.)
 
-Megan listened to a recording of her relatives, who sang the song as they
-learned it when they were children.  From this recording, she made an
-arrangement that drew upon her part-writing training as a music major in
-college.
+There are various versions of the music for Mnohaya Lita. However, none of the
+versions that one finds on the internet is the one that my father learned as a
+child.  Megan listened to a recording of my father and some of his siblings,
+who sang the song as they learned it when they were children.  From this
+recording, she made an arrangement that drew upon her part-writing training as
+a music major in college.
 
 I coded up the initial Lilypond for this on the basis of
  1. Megan's original score and
