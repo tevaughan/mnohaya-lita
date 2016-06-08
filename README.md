@@ -9,6 +9,8 @@ I coded up the initial Lilypond for this on the basis of
 See [the release page](https://github.com/tevaughan/mnohaya-lita/releases) for
 PDF and MIDI files.
 
+## Playing MIDI on GNU/Linux
+
 To play a MIDI file on GNU/Linux, make sure that the `timidity` and `pmidi`
 packages are installed.
 
@@ -29,4 +31,17 @@ directory that contains `mnohaya-lita.midi`. Then do something like
     shell-prompt$ pmidi -p 128:0 mnohaya-lita.midi
 
 where you substitute a port number that you see in your output from `pmidi -l`.
+
+## Building New Output Files
+
+There is a `Makefile`.  On a unix-like machine with Lilypond installed, just
+open a terminal window, change to the directory containing the local clone of
+the git repository, and then do
+
+    shell-prompt$ make
+
+This should generate both a PDF version of the score and a MIDI file.
+
+Modify `mnohaya-lita.ly` to change the output.  See the Lilypond documentation,
+if necessary, for reference.
 
