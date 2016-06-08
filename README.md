@@ -20,7 +20,7 @@ his siblings, who sang the song as they learned it when they were children.
 From this recording, she made an arrangement that drew upon her part-writing
 training as a music major in college.
 
-I coded up the initial Lilypond for this on the basis of
+I wrote the initial Lilypond source code for this on the basis of
  1. Megan's original score and
  2. my mental notes from our first practice session.
 
