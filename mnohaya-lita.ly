@@ -84,5 +84,6 @@ baritoneMusic = \relative c {
     >>
     \context Lyrics = "altos" \lyricsto "altos" \altoWords
   >>
+  \midi { }
 }
 

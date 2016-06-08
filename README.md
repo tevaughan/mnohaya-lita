@@ -1,2 +1,28 @@
 # mnohaya-lita
-Megan Vaughan's arrangement of a traditional song in the Vaughan family.
+
+## Megan Vaughan's arrangement of a traditional song in the Vaughan family.
+
+I coded up the initial Lilypond for this on the basis of
+ 1. Megan's original score and
+ 2. my mental notes from our first practice session.
+
+See [the release page](https://github.com/tevaughan/mnohaya-lita/releases) for
+PDF and MIDI files.
+
+To play a MIDI file on GNU/Linux, make sure that the `timidity` and `pmidi`
+packages are installed.
+
+Typing `pmidi -l` will produce output that looks something like this:
+
+    $ pmidi -l
+     Port     Client name                       Port name
+     14:0     Midi Through                      Midi Through Port-0
+    128:0     TiMidity                          TiMidity port 0
+    128:1     TiMidity                          TiMidity port 1
+    128:2     TiMidity                          TiMidity port 2
+    128:3     TiMidity                          TiMidity port 3
+
+At the shell prompt, first change to the directory that contains
+`mnohaya-lit.midi`. Then do something like `pmidi -p 128:0 mnohaya-lita.midi`,
+where you substitute a port number that you see in your output from `pmidi -l`.
+
