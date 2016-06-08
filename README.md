@@ -15,10 +15,10 @@ Roman mass have the liturgy of the Word and the liturgy of the Eucharist.)
 
 There are various versions of the music for Mnohaya Lita. However, none of the
 versions that one finds on the internet is the one that my father learned as a
-child.  Megan listened to a recording of my father and some of his siblings,
-who sang the song as they learned it when they were children.  From this
-recording, she made an arrangement that drew upon her part-writing training as
-a music major in college.
+child.  My daughter, Megan, listened to a recording of my father and some of
+his siblings, who sang the song as they learned it when they were children.
+From this recording, she made an arrangement that drew upon her part-writing
+training as a music major in college.
 
 I coded up the initial Lilypond for this on the basis of
  1. Megan's original score and
