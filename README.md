@@ -7,7 +7,7 @@ them he and his siblings learned a traditional Ukrainian song, Mnohaya Lita.
 Literally, it means "Many Years".  The song is sung, for example, to the bride
 and groom at a wedding.  It is also part of the divine liturgy in the East.
 (The Eastern Catholics do not celebrate the mass, which is the Roman-Catholic
-version of the same divine liturgy. Both the Easter divine liturgy and the
+version of the same divine liturgy. Both the Eastern divine liturgy and the
 Roman mass have the liturgy of the Word and the liturgy of the Eucharist.)
 
 Megan listened to a recording of her relatives, who sang the song as they
