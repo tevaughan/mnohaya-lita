@@ -14,7 +14,7 @@ packages are installed.
 
 Typing `pmidi -l` will produce output that looks something like this:
 
-    $ pmidi -l
+    shell-prompt$ pmidi -l
      Port     Client name                       Port name
      14:0     Midi Through                      Midi Through Port-0
     128:0     TiMidity                          TiMidity port 0
@@ -22,7 +22,11 @@ Typing `pmidi -l` will produce output that looks something like this:
     128:2     TiMidity                          TiMidity port 2
     128:3     TiMidity                          TiMidity port 3
 
-At the shell prompt, first change to the directory that contains
-`mnohaya-lita.midi`. Then do something like `pmidi -p 128:0 mnohaya-lita.midi`,
+By `shell-prompt$` I mean whatever shell prompt you see when you are about to
+type a command in a terminal window.  At the shell prompt, first change to the
+directory that contains `mnohaya-lita.midi`. Then do something like
+
+    shell-prompt$ pmidi -p 128:0 mnohaya-lita.midi
+
 where you substitute a port number that you see in your output from `pmidi -l`.
 
