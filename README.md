@@ -3,7 +3,7 @@
 
 See [the release page](https://github.com/tevaughan/mnohaya-lita/releases).
 
-# Megan Vaughan's Arrangement of a Traditional Song
+# Background of Megan Vaughan's Arrangement
 
 When he was a boy, my father's family had Ukrainian Catholic friends.  From
 them he and his siblings learned a traditional Ukrainian song, Mnohaya Lita.
