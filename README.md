@@ -1,6 +1,8 @@
 # mnohaya-lita
 
-# See [the release page](https://github.com/tevaughan/mnohaya-lita/releases) for PDF and MIDI files.
+## PDF and MIDI Files
+
+See [the release page](https://github.com/tevaughan/mnohaya-lita/releases).
 
 ## Megan Vaughan's Arrangement of a Traditional Song
 
