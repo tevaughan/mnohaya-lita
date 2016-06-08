@@ -23,6 +23,6 @@ Typing `pmidi -l` will produce output that looks something like this:
     128:3     TiMidity                          TiMidity port 3
 
 At the shell prompt, first change to the directory that contains
-`mnohaya-lit.midi`. Then do something like `pmidi -p 128:0 mnohaya-lita.midi`,
+`mnohaya-lita.midi`. Then do something like `pmidi -p 128:0 mnohaya-lita.midi`,
 where you substitute a port number that you see in your output from `pmidi -l`.
 
