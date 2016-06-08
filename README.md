@@ -1,6 +1,19 @@
 # mnohaya-lita
 
-## Megan Vaughan's arrangement of a traditional song in the Vaughan family.
+## Megan Vaughan's arrangement of a traditional song.
+
+When he was a boy, my father's family had Ukrainian Catholic friends.  From
+them he and his siblings learned a traditional Ukrainian song, Mnohaya Lita.
+Literally, it means "Many Years".  The song is sung, for example, to the bride
+and groom at a wedding.  It is also part of the divine liturgy in the East.
+(The Eastern Catholics do not celebrate the mass, which is the Roman-Catholic
+version of the same divine liturgy. Both the Easter divine liturgy and the
+Roman mass have the liturgy of the Word and the liturgy of the Eucharist.)
+
+Megan listened to a recording of her relatives, who sang the song as they
+learned it when they were children.  From this recording, she made an
+arrangement that drew upon her part-writing training as a music major in
+college.
 
 I coded up the initial Lilypond for this on the basis of
  1. Megan's original score and
