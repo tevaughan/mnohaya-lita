@@ -64,26 +64,33 @@ baritoneMusic = \relative c {
 
 \score {
   \new ChoirStaff <<
+    \chords {
+      f1
+    }
     \new Staff = "women" <<
       \new Voice = "sopranos" {
-        \voiceOne
-        << \global \sopMusic >>
+        \voiceOne <<
+          \global \sopMusic
+        >>
       }
       \new Voice = "altos" {
-        \voiceTwo
-        << \global \altoMusic >>
+        \voiceTwo <<
+          \global \altoMusic
+        >>
       }
     >>
     \new Lyrics = "altos"
     \new Staff = "men" <<
       \clef bass
       \new Voice = "baritones" {
-        \voiceOne
-        << \global \baritoneMusic >>
+        \voiceOne <<
+          \global \baritoneMusic
+        >>
       }
     >>
     \context Lyrics = "altos" \lyricsto "altos" \altoWords
   >>
   \midi { }
+  \layout { }
 }
 

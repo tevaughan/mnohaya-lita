@@ -28,26 +28,16 @@ I wrote the initial Lilypond source code for this on the basis of
 
 # Playing MIDI on GNU/Linux
 
-To play a MIDI file on GNU/Linux, make sure that the `timidity` and `pmidi`
-packages are installed.
+To play a MIDI file on GNU/Linux, make sure that the `timidity` package is
+installed.
 
-Typing `pmidi -l` will produce output that looks something like this:
+Open a terminal window.  Suppose that the shell prompt is `prompt$`.  Suppose
+that the MIDI file is in the directory `~/Music/mnohaya-lita` and has the name
+`mnohaya-lit.midi`.  In this example, one would listen to the MIDI file by
+doing the following:
 
-    shell-prompt$ pmidi -l
-     Port     Client name                       Port name
-     14:0     Midi Through                      Midi Through Port-0
-    128:0     TiMidity                          TiMidity port 0
-    128:1     TiMidity                          TiMidity port 1
-    128:2     TiMidity                          TiMidity port 2
-    128:3     TiMidity                          TiMidity port 3
-
-By `shell-prompt$` I mean whatever shell prompt you see when you are about to
-type a command in a terminal window.  At the shell prompt, first change to the
-directory that contains `mnohaya-lita.midi`. Then do something like
-
-    shell-prompt$ pmidi -p 128:0 mnohaya-lita.midi
-
-where you substitute a port number that you see in your output from `pmidi -l`.
+    prompt$ cd ~/Music/mnohaya-lita
+    prompt$ timidity mnohaya-lita.midi
 
 
 # Building New Output Files
