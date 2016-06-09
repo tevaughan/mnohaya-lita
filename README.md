@@ -33,7 +33,9 @@ installed.
 
 Open a terminal window.  Suppose that the shell prompt is `prompt$`.  Suppose
 that the MIDI file is in the directory
+
     ~/Music/mnohaya-lita
+
 and has the name `mnohaya-lita.midi`.  In this example, one would listen to the
 MIDI file by doing the following:
 
