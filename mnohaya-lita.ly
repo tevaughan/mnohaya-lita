@@ -65,8 +65,15 @@ baritoneMusic = \relative c {
 \score {
   \new ChoirStaff <<
     \chords {
-      f1
-    }
+  f2 bes4 f4:/a 
+  f4 c8:/g c8:7/bes f4:/a f4
+  f1
+  c2:7 c2 
+  bes4.:/d f8 bes4.:/d e8:m7.5-
+  f8 g8:m f8 g8:m f4 f4:/a
+  f2:/a f2
+  c8:/e c4. f2
+          }
     \new Staff = "women" <<
       \new Voice = "sopranos" {
         \voiceOne <<
